@@ -1,0 +1,46 @@
+html,body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#all {
+    margin : auto 0;
+    background-color: #ff87b9;
+    height: 100%;
+    /*display : inline;*/
+    /*float: left;*/
+
+}
+
+
+#leftSide {
+    background-color: darkorange;
+    width: 25%;
+    height: 100%;
+    float: left;
+
+
+}
+
+
+#rightSide{
+    background-color: #ff9794;
+    width: 75%;
+    float: right;
+}
+
+#navBar ul {
+    list-style: none;
+    text-align: center;
+
+}
+
+#navBar ul li{
+    display:inline;
+}
+#logoImg{
+    text-align: center;
+
+}
+
